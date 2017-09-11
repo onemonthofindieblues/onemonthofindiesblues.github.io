@@ -1,8 +1,24 @@
 ---
-layout: page
+layout: default
 ---
-<div class="index-wrapper">
-  <a class="link-1" href="{{ site.posts[0].url }}">his</a> /
-  <a class="link-1" href="{{ site.posts[0].url }}">her</a> / 
-  <a class="link-1" href="/about/">about</a> 
+
+<div class="header">
+    <h1>-----------<br>One month of indie blues <br>-----------</h1>
+    <ul>
+        {% for item in site.data.navigation %}
+        <li>
+            <a href="{{ item.url }}">{{ item.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+<div class="blog">
+    <h1>Topics:</h1>
+    <ul>
+       {% for item in site.data.topics_navigation %} 
+        <li>
+        * <a href="{{ item.url }}">{{ item.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
 </div>
