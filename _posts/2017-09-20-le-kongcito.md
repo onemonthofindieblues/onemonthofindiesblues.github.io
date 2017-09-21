@@ -11,7 +11,9 @@ I think I have it easier. I stayed, he left. I kept the familiar people and plac
 
 We videochat. We've done so for the past few days. I enjoy just looking at him and hearing his voice. I love his facial expressions, especially his smile. It comforts me in a way. If I cannot cuddle with his body (and I love his body), I will cuddle with his smile. 
 
-We write. I love that we write. I like writing to him. I like that he writes. I'm a bit old fashioned in that sense. I'm thankful for the technology that allows real-time communication, but writing down our thoughts seems pretty adequate to our situation. I sometimes find myself composing a letter in my head while I walk; describing my feelings and situation. 
+We write. I love that we write to each other. I like writing to him. I like that he writes. I'm a bit old fashioned in that sense. I'm thankful for the technology that allows real-time communication, but writing down our thoughts seems pretty adequate to our situation. I sometimes find myself composing a letter in my head while I walk; describing my feelings and situation. I think this is a very important part of our relationship for me, as I get to organize my feelings and thoughts and be reassured about the whole thing. 
+
+And I'm enjoying the whole thing. 
 
 
 
