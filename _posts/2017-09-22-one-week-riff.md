@@ -9,6 +9,6 @@ It feels weird, but in a good manner... Even though, I cannot be with her physic
 
 There are many ways to feel a person close. I heard once that you don't miss the person, you miss the experiences you used to have with that person. Maybe, it is something similar the other way around. For example, every time I wear her scarf, watch our videos, view our photographs, cook the food we used to cook, listen the music we used to listen and so on. Somehow, my mind brings her next to me as she were here with me doing all that stuff, having fun and looking her lovely smile that I love so much. 
 
-It is cliche (fucking Hollywood, TV) but my home is whenever you are with me. I can be myself with you... I love you, and I was lucky to meet you before I left the country.
+It is cliche (fucking Hollywood, TV) but my home is whenever she is with me. I can be myself with her... I love her, and I was lucky to meet her before I left the country.
 
 See you somewhere soon!
