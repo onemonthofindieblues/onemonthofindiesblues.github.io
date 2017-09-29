@@ -1,7 +1,7 @@
 ---
 title: We are not writing
 layout: post
-category; his
+category: his
 ---
 
 It feels as we were not writing here anymore. The days feels so long that I have been 3 days since my last post but somehow it feels as it were way more. If we were a sine signal, I think we would be in the part where the derivative is positive. 
