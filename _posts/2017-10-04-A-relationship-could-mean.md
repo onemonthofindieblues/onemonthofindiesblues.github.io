@@ -11,4 +11,5 @@ I want her to be happy, even if it is not with me and I don't want her to feel t
 
 I love her, I want to be with her forever, and I want her to be free also. I feel free in this relation, and I think that she thinks the same. 
 
-You make me really happy! I could be me with you. 
+You make me really happy! I could be me with you. And sorry if I ever make you feel bad, it will happen again but you know we can talk about everything as we have been doing so far. 
+ 
