@@ -19,6 +19,6 @@ If you want to delete something or you are not agree with something, write it in
 * Plants / small garden
 
 ## We should discuss this
-Please follow the following format
+Please follow the following format   
  Section: Item - reasons
 * Not structural things: Projector - Reason 1, 2, bla bla bla
