@@ -12,5 +12,5 @@ If you want to delete something or you are not agree with something, write it in
 * Slackline
 
 ## We should discuss this
-Please follow the following format:
+Please follow the following format:   
 Item - reasons
