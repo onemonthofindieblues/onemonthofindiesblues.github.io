@@ -9,8 +9,9 @@ If you want to delete something or you are not agree with something, write it in
 * Mid to large size kitchen, we will eat there 
 * High ceilings
 * A window somewhere in the ceiling
+* A fireplace
 
-## Not structural things
+## Non structural things
 * Check OurGym.md
 * High speed internet
 * Good sound equipment (for movies, and training time)
