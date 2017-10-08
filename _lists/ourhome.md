@@ -1,6 +1,8 @@
 # Our home
 This list contain everything we believe our home have should have:
 
+If you want to delete something or you are not agree with something, write it in the section *we should discuss this*
+
 ## Architecture
 * Our own bedrooms
 * Common bathroom between our bedrooms, the bathroom will connect also the bedrooms
@@ -16,3 +18,7 @@ This list contain everything we believe our home have should have:
 * Projector
 * Plants / small garden
 
+## We should discuss this
+Please follow the following format
+ Section: Item - reasons
+* Not structural things: Projector - Reason 1, 2, bla bla bla
