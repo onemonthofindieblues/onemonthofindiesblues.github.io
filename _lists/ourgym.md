@@ -1,5 +1,5 @@
 # Our gym
-This list contain all the stuff we want to train
+This list contains all the stuff we want in order to train
 
 If you want to delete something or you are not agree with something, write it in the section *we should discuss this*
 
