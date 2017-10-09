@@ -12,9 +12,11 @@ It is divided between films proposed by her and films proposed by him. It also h
 * The Jungle Book
 * Blade Runner
 * Blade Runner 2049
+* Dunkirk
 
 
 ## From him
+* -Full metal jacket-
 
 ## Watched together
 * Full metal jacket (oct 1, 2017)
