@@ -1,5 +1,5 @@
 # Our responsibilities
-This is the list of the things each is responsible for. 
+This list contains the things each is responsible for. 
 
 ## Her
 * Lists
