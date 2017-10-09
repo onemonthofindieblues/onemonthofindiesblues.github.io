@@ -1,7 +1,7 @@
 # To Germany
-This is the list of things she will bring to Germany on February 2018.
+This list contains the things she will bring to Germany on February 2018.
 
-## Food
+## Food 
 * Almondd
 * Peanuts
 * Dried berries
