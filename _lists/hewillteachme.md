@@ -1,5 +1,5 @@
 # He will teach me
-This is the list of things he will be (or has been) teaching her. 
+This list contains the things he will be (or has been) teaching her. 
 She will register the progress.
 
 ## Body
