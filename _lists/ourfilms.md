@@ -10,6 +10,8 @@ It is divided between films proposed by her and films proposed by him. It also h
 ### To watch again
 * La la land
 * The Jungle Book
+* Blade Runner
+* Blade Runner 2049
 
 
 ## From him
