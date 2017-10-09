@@ -16,7 +16,9 @@ It is divided between films proposed by her and films proposed by him. It also h
 
 
 ## From him
-* -Full metal jacket-
+### New
+
+### To watch again
 
 ## Watched together
-* Full metal jacket (oct 1, 2017)
+* Full metal jacket (oct 1, 2017)(him)
