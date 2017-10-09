@@ -1,7 +1,7 @@
 # Our home
-This list contain everything we believe our home have should have:
+This list contains everything we believe our home should have:
 
-If you want to delete something or you are not agree with something, write it in the section *we should discuss this*
+If you want to delete something or you do not agree with something, write it in the section *we should discuss this*
 
 ## Architecture
 * Our own bedrooms
