@@ -4,8 +4,11 @@ It is divided between films proposed by her and films proposed by him. It also h
 
 ## From her
 
-### Watched
-* La la land 
+### New
+* Lars and the real girl.
+
+### To watch again
+* La la land
 * The Jungle Book
 
 
