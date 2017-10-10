@@ -8,8 +8,9 @@ If you want to delete something or you do not agree with something, write it in 
 * Rope
 * Climbing rocks
 * Crashmats
-* Weights ( deadlift, squats, etc)
+* Weights (deadlift, squats, etc)
 * Slackline
+* Pilates balls
 
 ## We should discuss this
 Please follow the following format:   

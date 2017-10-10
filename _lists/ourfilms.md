@@ -3,7 +3,6 @@ This list contains all the films we think we should watch.
 It is divided between films proposed by her and films proposed by him. It also has a section for films already watched and how we felt sbout them.
 
 ## From her
-
 ### New
 * Lars and the real girl.
 
@@ -20,6 +19,10 @@ It is divided between films proposed by her and films proposed by him. It also h
 * Eternal sunshine of a spotless mind
 
 ### To watch again
+* Back to the future
+* World war Z
 
 ## Watched together
 * Full metal jacket (oct 1, 2017)(him)
+* Lord of War (Sep, 2017)(him)
+
