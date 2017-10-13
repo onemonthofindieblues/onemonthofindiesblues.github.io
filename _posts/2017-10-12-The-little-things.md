@@ -5,7 +5,7 @@ category: her
 ---
 I remember our first kiss. It was so soft, so gentle. It was a bit playful and sweet. I liked it a lot. 
 
-I sometimes start having doubts, but then, I remember. I remember how much I like him. I love him, yes, but I liked him first.
+I sometimes start having negative thoughts, but then, I remember. I remember how much I like him. I love him, yes, but I liked him first.
 
 I remember the little things that made me like him: the funny remarks, Cowboy Bebop, handstands, tickles, games, the harmonica. The little things that made me like him in a deeper way: his blog, his view of life, his treasure box, his background.The little things that made me feel attached to him: the day we spent trapped in an Indie movie, the swings, the ice cream, the way he looked at me, the way he spoke to me, the way he kissed me, the way he hugged me.
 
