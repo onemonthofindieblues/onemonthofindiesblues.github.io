@@ -1,7 +1,7 @@
 ---
 title: Remembranzas
 layout: post
-category: him
+category: his
 ---
 
 We had a fight yesterday and I know that I hurt her. I have an issue, when I feel that I am getting frustrated and sick of something I just want to escape looking for some "peace". When in reality I don't to escape, because I know that it's part of the game. You won't be happy always, life sucks, she is not perfect and she will make mistake, and the same applies to me. However, I want to be with her forever, she makes me happy, she is an incredible person and she made me a better person.  I have faith in us, we talk a lot about us and we are committed one hundred percent. We know we must work hard to make our relation work, we are couple and a team. 
