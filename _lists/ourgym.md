@@ -11,6 +11,7 @@ If you want to delete something or you do not agree with something, write it in 
 * Weights (deadlift, squats, etc)
 * Slackline
 * Pilates balls
+* Telas
 
 ## We should discuss this
 Please follow the following format:   
