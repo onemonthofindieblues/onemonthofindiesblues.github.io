@@ -9,7 +9,7 @@ I still write to him almost every day. I tell him about my day and about the ide
 
 I do feel a difference in how I feel about him. I don't feel the need to think about him that much, although I do feel the need to at least see a pic of him every couple of days. I don't have as many sexual thoughts and I don't feel like watching his photos over and over as I used to. 
 
-I don't think this means I love him any less. I think it just means that time has passed, and the fact of not being physically together has an impact. 
+I don't think this means I love him any less. I think it just means that time has passed, and the fact of not being physically together has had an impact. 
 
 I sometimes wonder how it would be when we're finally together. I'm a bit scared, a bit excited, a bit worried. Whatever the outcome, I know it will be alright. I also know that I have to really believe and really give it my best or it won't be any good. 
 
