@@ -1,7 +1,7 @@
 ---
 layout: post
-category: her
 title: Focus on the bad
+category: her
 ---
 
 * He said I wasn’t special to him (this one hurt a lot).
