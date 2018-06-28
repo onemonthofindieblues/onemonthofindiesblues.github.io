@@ -5,7 +5,7 @@ category: her
 ---
 
 * He said I wasn’t special to him (this one hurt a lot).
-I still think he’s special to me, but the whole relationship kind of lost its *magic* with that.
+I still think he’s special to me, but the whole relationship kind of lost its *magic* with that. I also don't wanna ask him about other things because I fear the answer.
 *He hasn’t written in this blog in 3 months. 
 He may have nothing else to say.
 * We haven’t videochatted in more than a month.
