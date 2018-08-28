@@ -16,3 +16,4 @@ I sometimes have to insist. I think he likes being in “control”.
 Well, that.
 * He’s much more sociable than I am. 
 He likes to go out and drink and talk much more often. Not a bad thing itself, but a big difference between us.
+* We don't say _I love you_ to each other any more.
